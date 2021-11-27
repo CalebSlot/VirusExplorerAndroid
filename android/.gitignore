@@ -5,3 +5,5 @@
 **/build/**
 preloadedAssets/build/
 preloadedAssets/src/
+*.lock
+*.bin

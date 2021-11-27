@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :Corona:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fbccc5753f19ad621e3a0bfdf51056c3/transformed/jetified-Corona/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbccc5753f19ad621e3a0bfdf51056c3/transformed/jetified-Corona/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbccc5753f19ad621e3a0bfdf51056c3/transformed/jetified-Corona/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fbccc5753f19ad621e3a0bfdf51056c3/transformed/jetified-Corona/jars/libs/network.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

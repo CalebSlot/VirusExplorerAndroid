@@ -7,3 +7,5 @@ preloadedAssets/build/
 preloadedAssets/src/
 **/*.lock
 **/*.bin
+**/*/res/values/secrets.xml
+**/*.properties
